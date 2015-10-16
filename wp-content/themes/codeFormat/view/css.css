@@ -1,0 +1,42 @@
+body
+{
+    background: #A09F9F;
+}
+.main
+{
+    display: block;
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main > div
+{
+    display: block;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+.center
+{
+    background: #E8E8E8;
+}
+
+.center div
+{
+    display: block;
+    position: relative;
+    width: 400px;
+    height: 40px;
+    float: left;
+}
+
+.button input
+{
+    background: #777777;
+    width: 300px;
+    height: 40px;
+}
+
